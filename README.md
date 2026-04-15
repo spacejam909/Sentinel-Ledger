@@ -21,7 +21,7 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Tools
 * **Xcode 15+**
 * **JDK 17+**
 * **CocoaPods** (for dependency management)
