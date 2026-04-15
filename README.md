@@ -1,4 +1,3 @@
-# Sentinel-Ledger
 # Sentinel Ledger: Secure Financial Auditor
 
 **Sentinel Ledger** is a security-focused financial management tool designed to bridge the gap between personal budgeting and forensic data integrity. Unlike standard trackers, this application implements cryptographic hashing to ensure that financial records remain tamper-proof and uses anomaly detection to flag potential fraudulent activity.
